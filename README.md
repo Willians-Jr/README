@@ -2,7 +2,7 @@
 # Desenvolvedor Front-end Lv. 18
 
 - Sanidade: ██████████ 100%
-- HTML: █████████░ 90%
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white): █████████░ 90%
 - ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white): ████████░░ 80%
 
 🎒 Inventário:
